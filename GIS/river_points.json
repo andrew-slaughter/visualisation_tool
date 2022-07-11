@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "NAME": "Avon_1" }, "geometry": { "type": "Point", "coordinates": [ -2.280865390137892, 51.339493289158575 ] } },
+{ "type": "Feature", "properties": { "id": 1, "NAME": "Avon_2" }, "geometry": { "type": "Point", "coordinates": [ -2.270341624497501, 51.342143173995936 ] } },
+{ "type": "Feature", "properties": { "id": 2, "NAME": "Avon_3" }, "geometry": { "type": "Point", "coordinates": [ -2.255133176147889, 51.345034141940374 ] } },
+{ "type": "Feature", "properties": { "id": 3, "NAME": "Avon_4" }, "geometry": { "type": "Point", "coordinates": [ -2.236817065720297, 51.343374201585327 ] } },
+{ "type": "Feature", "properties": { "id": 4, "NAME": "Avon_5" }, "geometry": { "type": "Point", "coordinates": [ -2.224765902041069, 51.336951164918581 ] } },
+{ "type": "Feature", "properties": { "id": 5, "NAME": "Avon_6" }, "geometry": { "type": "Point", "coordinates": [ -2.218575873446961, 51.344259195993708 ] } },
+{ "type": "Feature", "properties": { "id": 6, "NAME": "Avon_7" }, "geometry": { "type": "Point", "coordinates": [ -2.19911298599489, 51.347884198172082 ] } },
+{ "type": "Feature", "properties": { "id": 7, "NAME": "Avon_8" }, "geometry": { "type": "Point", "coordinates": [ -2.186308336197466, 51.352228911169775 ] } },
+{ "type": "Feature", "properties": { "id": 8, "NAME": "Avon_9" }, "geometry": { "type": "Point", "coordinates": [ -2.172010812108446, 51.353717728784723 ] } },
+{ "type": "Feature", "properties": { "id": 9, "NAME": "Avon_10" }, "geometry": { "type": "Point", "coordinates": [ -2.169869964609963, 51.358314747548917 ] } }
+]
+}

@@ -1,0 +1,22 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipython
+  - sys
+  - json
+  - ipyleaflet
+  - ipywidgets
+  - geopandas
+  - fiona
+  - shapely
+  - glob
+  - folium
+  - branca
+  - numpy
+  - seaborn
+  - matplotlib
+  - pandas
+  - datetime
+  - time
+  - math

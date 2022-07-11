@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 382091.116319975815713, 160993.076955586991971 ], [ 382430.139804530947004, 160496.153345731727313 ] ] } },
+{ "type": "Feature", "properties": { "ID": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 383312.932942597544752, 160026.637334204744548 ], [ 382430.139804530947004, 160496.153345731727313 ] ] } },
+{ "type": "Feature", "properties": { "ID": 2 }, "geometry": { "type": "LineString", "coordinates": [ [ 383131.950838509015739, 162003.366334388469113 ], [ 382963.927496438496746, 161065.766761614620918 ] ] } },
+{ "type": "Feature", "properties": { "ID": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 382628.73918346100254, 161466.786174727021717 ], [ 382091.116319975815713, 160993.076955586991971 ] ] } },
+{ "type": "Feature", "properties": { "ID": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ 382963.927496438496746, 161065.766761614620918 ], [ 382091.116319975815713, 160993.076955586991971 ] ] } }
+]
+}
