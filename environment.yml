@@ -1,8 +1,7 @@
 channels:
   - defaults
   - conda-forge
-  - pip
-dependencies:
+ dependencies:
   - ipython
   - sys
   - json
