@@ -15,3 +15,4 @@ dependencies:
   - matplotlib
   - pandas
   - time
+  - plotly
