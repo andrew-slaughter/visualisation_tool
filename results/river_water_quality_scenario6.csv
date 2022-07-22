@@ -1,0 +1,901 @@
+Reach,Var,ID,Metric,Value
+RRAvon_10,River Flow m3/s,1,Mean,20.04432
+RRAvon_10,River Flow m3/s,1,Min,1.071182
+RRAvon_10,River Flow m3/s,1,5%ile,2.514638
+RRAvon_10,River Flow m3/s,1,10%ile,3.130635
+RRAvon_10,River Flow m3/s,1,20%ile,4.200156
+RRAvon_10,River Flow m3/s,1,50%ile,9.171476
+RRAvon_10,River Flow m3/s,1,90%ile,54.15219
+RRAvon_10,River Flow m3/s,1,95%ile,76.30833
+RRAvon_10,River Flow m3/s,1,99%ile,114.4271
+RRAvon_10,River Flow m3/s,1,Max,174.6657
+RRAvon_10,River Flow m3/s,1,MeanDW,20.03625
+RRAvon_10,River Flow m3/s,1,5%ileDW,2.507366
+RRAvon_10,River Flow m3/s,1,10%ileDW,3.127197
+RRAvon_10,River Flow m3/s,1,90%ileDW,9.171476
+RRAvon_10,River Flow m3/s,1,95%ileDW,54.15219
+RRAvon_10,River BODdis mg/l,2,Mean,1.178141
+RRAvon_10,River BODdis mg/l,2,Min,0.7003763
+RRAvon_10,River BODdis mg/l,2,5%ile,0.9217625
+RRAvon_10,River BODdis mg/l,2,10%ile,0.9674777
+RRAvon_10,River BODdis mg/l,2,20%ile,1.026202
+RRAvon_10,River BODdis mg/l,2,50%ile,1.152006
+RRAvon_10,River BODdis mg/l,2,90%ile,1.41814
+RRAvon_10,River BODdis mg/l,2,95%ile,1.521373
+RRAvon_10,River BODdis mg/l,2,99%ile,1.776019
+RRAvon_10,River BODdis mg/l,2,Max,3.447948
+RRAvon_10,River BODdis mg/l,2,MeanDW,1.180058
+RRAvon_10,River BODdis mg/l,2,5%ileDW,0.9274961
+RRAvon_10,River BODdis mg/l,2,10%ileDW,0.9715297
+RRAvon_10,River BODdis mg/l,2,90%ileDW,1.152006
+RRAvon_10,River BODdis mg/l,2,95%ileDW,1.41814
+RRAvon_10,River AmmN mg/l,3,Mean,0.1613932
+RRAvon_10,River AmmN mg/l,3,Min,3.77E-02
+RRAvon_10,River AmmN mg/l,3,5%ile,6.88E-02
+RRAvon_10,River AmmN mg/l,3,10%ile,8.07E-02
+RRAvon_10,River AmmN mg/l,3,20%ile,9.99E-02
+RRAvon_10,River AmmN mg/l,3,50%ile,0.1471401
+RRAvon_10,River AmmN mg/l,3,90%ile,0.2568017
+RRAvon_10,River AmmN mg/l,3,95%ile,0.3028457
+RRAvon_10,River AmmN mg/l,3,99%ile,0.4085486
+RRAvon_10,River AmmN mg/l,3,Max,0.6695384
+RRAvon_10,River AmmN mg/l,3,MeanDW,0.163537
+RRAvon_10,River AmmN mg/l,3,5%ileDW,6.77E-02
+RRAvon_10,River AmmN mg/l,3,10%ileDW,7.99E-02
+RRAvon_10,River AmmN mg/l,3,90%ileDW,0.1471401
+RRAvon_10,River AmmN mg/l,3,95%ileDW,0.2568017
+RRAvon_10,River DO mg/l,4,Mean,7.534303
+RRAvon_10,River DO mg/l,4,Min,1.356525
+RRAvon_10,River DO mg/l,4,5%ile,5.165624
+RRAvon_10,River DO mg/l,4,10%ile,5.643938
+RRAvon_10,River DO mg/l,4,20%ile,6.113478
+RRAvon_10,River DO mg/l,4,50%ile,7.539813
+RRAvon_10,River DO mg/l,4,90%ile,9.519402
+RRAvon_10,River DO mg/l,4,95%ile,9.776128
+RRAvon_10,River DO mg/l,4,99%ile,10.11181
+RRAvon_10,River DO mg/l,4,Max,13.29704
+RRAvon_10,River DO mg/l,4,MeanDW,7.523501
+RRAvon_10,River DO mg/l,4,5%ileDW,5.132977
+RRAvon_10,River DO mg/l,4,10%ileDW,5.617928
+RRAvon_10,River DO mg/l,4,90%ileDW,7.539813
+RRAvon_10,River DO mg/l,4,95%ileDW,9.519402
+RRAvon_10,River Temperature Deg C,5,Mean,9.646255
+RRAvon_10,River Temperature Deg C,5,Min,0
+RRAvon_10,River Temperature Deg C,5,5%ile,3.142394
+RRAvon_10,River Temperature Deg C,5,10%ile,3.615814
+RRAvon_10,River Temperature Deg C,5,20%ile,4.349294
+RRAvon_10,River Temperature Deg C,5,50%ile,9.512984
+RRAvon_10,River Temperature Deg C,5,90%ile,16.165
+RRAvon_10,River Temperature Deg C,5,95%ile,17.05304
+RRAvon_10,River Temperature Deg C,5,99%ile,18.97976
+RRAvon_10,River Temperature Deg C,5,Max,21.30415
+RRAvon_10,River Temperature Deg C,5,MeanDW,9.64645
+RRAvon_10,River Temperature Deg C,5,5%ileDW,3.135413
+RRAvon_10,River Temperature Deg C,5,10%ileDW,3.61549
+RRAvon_10,River Temperature Deg C,5,90%ileDW,9.512984
+RRAvon_10,River Temperature Deg C,5,95%ileDW,16.165
+RRAvon_10,DO %sat at downstream end of reach %,6,Mean,64.70882
+RRAvon_10,DO %sat at downstream end of reach %,6,Min,15.02149
+RRAvon_10,DO %sat at downstream end of reach %,6,5%ile,52.82695
+RRAvon_10,DO %sat at downstream end of reach %,6,10%ile,56.13252
+RRAvon_10,DO %sat at downstream end of reach %,6,20%ile,59.33209
+RRAvon_10,DO %sat at downstream end of reach %,6,50%ile,64.81252
+RRAvon_10,DO %sat at downstream end of reach %,6,90%ile,73.61948
+RRAvon_10,DO %sat at downstream end of reach %,6,95%ile,75.11609
+RRAvon_10,DO %sat at downstream end of reach %,6,99%ile,77.63575
+RRAvon_10,DO %sat at downstream end of reach %,6,Max,99.5507
+RRAvon_10,DO %sat at downstream end of reach %,6,MeanDW,64.60417
+RRAvon_10,DO %sat at downstream end of reach %,6,5%ileDW,52.52719
+RRAvon_10,DO %sat at downstream end of reach %,6,10%ileDW,55.91412
+RRAvon_10,DO %sat at downstream end of reach %,6,90%ileDW,64.81252
+RRAvon_10,DO %sat at downstream end of reach %,6,95%ileDW,73.61948
+RRAvon_100,DO %sat at downstream end of reach %,7,Mean,72.36025
+RRAvon_100,DO %sat at downstream end of reach %,7,Min,39.17463
+RRAvon_100,DO %sat at downstream end of reach %,7,5%ile,61.21424
+RRAvon_100,DO %sat at downstream end of reach %,7,10%ile,64.4762
+RRAvon_100,DO %sat at downstream end of reach %,7,20%ile,67.83981
+RRAvon_100,DO %sat at downstream end of reach %,7,50%ile,72.57676
+RRAvon_100,DO %sat at downstream end of reach %,7,90%ile,79.23154
+RRAvon_100,DO %sat at downstream end of reach %,7,95%ile,81.47608
+RRAvon_100,DO %sat at downstream end of reach %,7,99%ile,89.50837
+RRAvon_100,DO %sat at downstream end of reach %,7,Max,195.9135
+RRAvon_100,DO %sat at downstream end of reach %,7,MeanDW,72.27422
+RRAvon_100,DO %sat at downstream end of reach %,7,5%ileDW,61.10122
+RRAvon_100,DO %sat at downstream end of reach %,7,10%ileDW,64.49902
+RRAvon_100,DO %sat at downstream end of reach %,7,90%ileDW,72.57676
+RRAvon_100,DO %sat at downstream end of reach %,7,95%ileDW,79.23154
+RRAvon_100,River BODdis mg/l,8,Mean,1.434887
+RRAvon_100,River BODdis mg/l,8,Min,0.4157381
+RRAvon_100,River BODdis mg/l,8,5%ile,0.8502665
+RRAvon_100,River BODdis mg/l,8,10%ile,0.9371886
+RRAvon_100,River BODdis mg/l,8,20%ile,1.053156
+RRAvon_100,River BODdis mg/l,8,50%ile,1.325806
+RRAvon_100,River BODdis mg/l,8,90%ile,2.021497
+RRAvon_100,River BODdis mg/l,8,95%ile,2.365091
+RRAvon_100,River BODdis mg/l,8,99%ile,3.389323
+RRAvon_100,River BODdis mg/l,8,Max,12.88844
+RRAvon_100,River BODdis mg/l,8,MeanDW,1.43219
+RRAvon_100,River BODdis mg/l,8,5%ileDW,0.8486131
+RRAvon_100,River BODdis mg/l,8,10%ileDW,0.9337064
+RRAvon_100,River BODdis mg/l,8,90%ileDW,1.325806
+RRAvon_100,River BODdis mg/l,8,95%ileDW,2.021497
+RRAvon_100,River DO mg/l,9,Mean,8.188168
+RRAvon_100,River DO mg/l,9,Min,4.809138
+RRAvon_100,River DO mg/l,9,5%ile,6.500673
+RRAvon_100,River DO mg/l,9,10%ile,6.693443
+RRAvon_100,River DO mg/l,9,20%ile,6.964885
+RRAvon_100,River DO mg/l,9,50%ile,8.097062
+RRAvon_100,River DO mg/l,9,90%ile,9.877346
+RRAvon_100,River DO mg/l,9,95%ile,10.26459
+RRAvon_100,River DO mg/l,9,99%ile,11.26492
+RRAvon_100,River DO mg/l,9,Max,25.76372
+RRAvon_100,River DO mg/l,9,MeanDW,8.177586
+RRAvon_100,River DO mg/l,9,5%ileDW,6.501023
+RRAvon_100,River DO mg/l,9,10%ileDW,6.688978
+RRAvon_100,River DO mg/l,9,90%ileDW,8.097062
+RRAvon_100,River DO mg/l,9,95%ileDW,9.877346
+RRAvon_100,River AmmN mg/l,10,Mean,0.119396
+RRAvon_100,River AmmN mg/l,10,Min,9.35E-03
+RRAvon_100,River AmmN mg/l,10,5%ile,3.40E-02
+RRAvon_100,River AmmN mg/l,10,10%ile,4.28E-02
+RRAvon_100,River AmmN mg/l,10,20%ile,5.86E-02
+RRAvon_100,River AmmN mg/l,10,50%ile,9.91E-02
+RRAvon_100,River AmmN mg/l,10,90%ile,0.2078005
+RRAvon_100,River AmmN mg/l,10,95%ile,0.2738889
+RRAvon_100,River AmmN mg/l,10,99%ile,0.4726402
+RRAvon_100,River AmmN mg/l,10,Max,1.33507
+RRAvon_100,River AmmN mg/l,10,MeanDW,0.1194145
+RRAvon_100,River AmmN mg/l,10,5%ileDW,0.0336017
+RRAvon_100,River AmmN mg/l,10,10%ileDW,4.25E-02
+RRAvon_100,River AmmN mg/l,10,90%ileDW,9.91E-02
+RRAvon_100,River AmmN mg/l,10,95%ileDW,0.2078005
+RRAvon_100,River Flow m3/s,11,Mean,8.450757
+RRAvon_100,River Flow m3/s,11,Min,0.272568
+RRAvon_100,River Flow m3/s,11,5%ile,0.9655412
+RRAvon_100,River Flow m3/s,11,10%ile,1.214194
+RRAvon_100,River Flow m3/s,11,20%ile,1.666402
+RRAvon_100,River Flow m3/s,11,50%ile,3.770258
+RRAvon_100,River Flow m3/s,11,90%ile,23.21914
+RRAvon_100,River Flow m3/s,11,95%ile,32.55085
+RRAvon_100,River Flow m3/s,11,99%ile,50.11082
+RRAvon_100,River Flow m3/s,11,Max,81.76458
+RRAvon_100,River Flow m3/s,11,MeanDW,8.459713
+RRAvon_100,River Flow m3/s,11,5%ileDW,0.9639045
+RRAvon_100,River Flow m3/s,11,10%ileDW,1.213784
+RRAvon_100,River Flow m3/s,11,90%ileDW,3.770258
+RRAvon_100,River Flow m3/s,11,95%ileDW,23.21914
+RRAvon_100,River Temperature Deg C,12,Mean,10.46781
+RRAvon_100,River Temperature Deg C,12,Min,0.210866
+RRAvon_100,River Temperature Deg C,12,5%ile,3.680756
+RRAvon_100,River Temperature Deg C,12,10%ile,3.961343
+RRAvon_100,River Temperature Deg C,12,20%ile,4.711997
+RRAvon_100,River Temperature Deg C,12,50%ile,10.24408
+RRAvon_100,River Temperature Deg C,12,90%ile,17.50829
+RRAvon_100,River Temperature Deg C,12,95%ile,18.4009
+RRAvon_100,River Temperature Deg C,12,99%ile,20.50455
+RRAvon_100,River Temperature Deg C,12,Max,23.57116
+RRAvon_100,River Temperature Deg C,12,MeanDW,10.46849
+RRAvon_100,River Temperature Deg C,12,5%ileDW,3.674002
+RRAvon_100,River Temperature Deg C,12,10%ileDW,3.962603
+RRAvon_100,River Temperature Deg C,12,90%ileDW,10.24408
+RRAvon_100,River Temperature Deg C,12,95%ileDW,17.50829
+RRAvon_20,DO %sat at downstream end of reach %,13,Mean,72.60133
+RRAvon_20,DO %sat at downstream end of reach %,13,Min,52.78977
+RRAvon_20,DO %sat at downstream end of reach %,13,5%ile,65.82854
+RRAvon_20,DO %sat at downstream end of reach %,13,10%ile,67.54631
+RRAvon_20,DO %sat at downstream end of reach %,13,20%ile,69.46686
+RRAvon_20,DO %sat at downstream end of reach %,13,50%ile,72.74783
+RRAvon_20,DO %sat at downstream end of reach %,13,90%ile,77.37309
+RRAvon_20,DO %sat at downstream end of reach %,13,95%ile,78.62012
+RRAvon_20,DO %sat at downstream end of reach %,13,99%ile,81.25798
+RRAvon_20,DO %sat at downstream end of reach %,13,Max,113.987
+RRAvon_20,DO %sat at downstream end of reach %,13,MeanDW,72.68967
+RRAvon_20,DO %sat at downstream end of reach %,13,5%ileDW,65.91699
+RRAvon_20,DO %sat at downstream end of reach %,13,10%ileDW,67.63061
+RRAvon_20,DO %sat at downstream end of reach %,13,90%ileDW,72.74783
+RRAvon_20,DO %sat at downstream end of reach %,13,95%ileDW,77.37309
+RRAvon_20,River BODdis mg/l,14,Mean,1.332898
+RRAvon_20,River BODdis mg/l,14,Min,0.7695373
+RRAvon_20,River BODdis mg/l,14,5%ile,1.039393
+RRAvon_20,River BODdis mg/l,14,10%ile,1.090284
+RRAvon_20,River BODdis mg/l,14,20%ile,1.155522
+RRAvon_20,River BODdis mg/l,14,50%ile,1.300194
+RRAvon_20,River BODdis mg/l,14,90%ile,1.612879
+RRAvon_20,River BODdis mg/l,14,95%ile,1.733425
+RRAvon_20,River BODdis mg/l,14,99%ile,2.056103
+RRAvon_20,River BODdis mg/l,14,Max,4.043743
+RRAvon_20,River BODdis mg/l,14,MeanDW,1.325399
+RRAvon_20,River BODdis mg/l,14,5%ileDW,1.031887
+RRAvon_20,River BODdis mg/l,14,10%ileDW,1.082273
+RRAvon_20,River BODdis mg/l,14,90%ileDW,1.300194
+RRAvon_20,River BODdis mg/l,14,95%ileDW,1.612879
+RRAvon_20,River AmmN mg/l,15,Mean,0.17973
+RRAvon_20,River AmmN mg/l,15,Min,2.90E-02
+RRAvon_20,River AmmN mg/l,15,5%ile,5.60E-02
+RRAvon_20,River AmmN mg/l,15,10%ile,6.78E-02
+RRAvon_20,River AmmN mg/l,15,20%ile,9.11E-02
+RRAvon_20,River AmmN mg/l,15,50%ile,0.160849
+RRAvon_20,River AmmN mg/l,15,90%ile,0.3120004
+RRAvon_20,River AmmN mg/l,15,95%ile,0.3733239
+RRAvon_20,River AmmN mg/l,15,99%ile,0.531751
+RRAvon_20,River AmmN mg/l,15,Max,1.078726
+RRAvon_20,River AmmN mg/l,15,MeanDW,0.1724958
+RRAvon_20,River AmmN mg/l,15,5%ileDW,5.69E-02
+RRAvon_20,River AmmN mg/l,15,10%ileDW,6.87E-02
+RRAvon_20,River AmmN mg/l,15,90%ileDW,0.160849
+RRAvon_20,River AmmN mg/l,15,95%ileDW,0.3120004
+RRAvon_20,River DO mg/l,16,Mean,8.363353
+RRAvon_20,River DO mg/l,16,Min,4.98818
+RRAvon_20,River DO mg/l,16,5%ile,6.705238
+RRAvon_20,River DO mg/l,16,10%ile,6.924109
+RRAvon_20,River DO mg/l,16,20%ile,7.220642
+RRAvon_20,River DO mg/l,16,50%ile,8.318656
+RRAvon_20,River DO mg/l,16,90%ile,9.926041
+RRAvon_20,River DO mg/l,16,95%ile,10.15568
+RRAvon_20,River DO mg/l,16,99%ile,10.494
+RRAvon_20,River DO mg/l,16,Max,15.23036
+RRAvon_20,River DO mg/l,16,MeanDW,8.372832
+RRAvon_20,River DO mg/l,16,5%ileDW,6.727136
+RRAvon_20,River DO mg/l,16,10%ileDW,6.936795
+RRAvon_20,River DO mg/l,16,90%ileDW,8.318656
+RRAvon_20,River DO mg/l,16,95%ileDW,9.926041
+RRAvon_20,River Flow m3/s,17,Mean,18.64162
+RRAvon_20,River Flow m3/s,17,Min,1.004832
+RRAvon_20,River Flow m3/s,17,5%ile,2.363136
+RRAvon_20,River Flow m3/s,17,10%ile,2.952464
+RRAvon_20,River Flow m3/s,17,20%ile,3.940517
+RRAvon_20,River Flow m3/s,17,50%ile,8.582613
+RRAvon_20,River Flow m3/s,17,90%ile,50.34063
+RRAvon_20,River Flow m3/s,17,95%ile,70.66741
+RRAvon_20,River Flow m3/s,17,99%ile,106.4847
+RRAvon_20,River Flow m3/s,17,Max,170.7688
+RRAvon_20,River Flow m3/s,17,MeanDW,18.64394
+RRAvon_20,River Flow m3/s,17,5%ileDW,2.370196
+RRAvon_20,River Flow m3/s,17,10%ileDW,2.964112
+RRAvon_20,River Flow m3/s,17,90%ileDW,8.582613
+RRAvon_20,River Flow m3/s,17,95%ileDW,50.34063
+RRAvon_20,River Temperature Deg C,18,Mean,9.691036
+RRAvon_20,River Temperature Deg C,18,Min,0.176917
+RRAvon_20,River Temperature Deg C,18,5%ile,3.333266
+RRAvon_20,River Temperature Deg C,18,10%ile,3.685449
+RRAvon_20,River Temperature Deg C,18,20%ile,4.392247
+RRAvon_20,River Temperature Deg C,18,50%ile,9.566448
+RRAvon_20,River Temperature Deg C,18,90%ile,16.16733
+RRAvon_20,River Temperature Deg C,18,95%ile,16.98932
+RRAvon_20,River Temperature Deg C,18,99%ile,18.81922
+RRAvon_20,River Temperature Deg C,18,Max,21.11745
+RRAvon_20,River Temperature Deg C,18,MeanDW,9.6896
+RRAvon_20,River Temperature Deg C,18,5%ileDW,3.331123
+RRAvon_20,River Temperature Deg C,18,10%ileDW,3.683256
+RRAvon_20,River Temperature Deg C,18,90%ileDW,9.566448
+RRAvon_20,River Temperature Deg C,18,95%ileDW,16.16733
+RRAvon_30,DO %sat at downstream end of reach %,19,Mean,72.41593
+RRAvon_30,DO %sat at downstream end of reach %,19,Min,50.46283
+RRAvon_30,DO %sat at downstream end of reach %,19,5%ile,64.45659
+RRAvon_30,DO %sat at downstream end of reach %,19,10%ile,66.3065
+RRAvon_30,DO %sat at downstream end of reach %,19,20%ile,68.51931
+RRAvon_30,DO %sat at downstream end of reach %,19,50%ile,72.41708
+RRAvon_30,DO %sat at downstream end of reach %,19,90%ile,78.47882
+RRAvon_30,DO %sat at downstream end of reach %,19,95%ile,79.9261
+RRAvon_30,DO %sat at downstream end of reach %,19,99%ile,82.93154
+RRAvon_30,DO %sat at downstream end of reach %,19,Max,126.2204
+RRAvon_30,DO %sat at downstream end of reach %,19,MeanDW,72.42525
+RRAvon_30,DO %sat at downstream end of reach %,19,5%ileDW,64.46867
+RRAvon_30,DO %sat at downstream end of reach %,19,10%ileDW,66.35844
+RRAvon_30,DO %sat at downstream end of reach %,19,90%ileDW,72.41708
+RRAvon_30,DO %sat at downstream end of reach %,19,95%ileDW,78.47882
+RRAvon_30,River BODdis mg/l,20,Mean,1.385646
+RRAvon_30,River BODdis mg/l,20,Min,0.7704916
+RRAvon_30,River BODdis mg/l,20,5%ile,1.066396
+RRAvon_30,River BODdis mg/l,20,10%ile,1.121008
+RRAvon_30,River BODdis mg/l,20,20%ile,1.191251
+RRAvon_30,River BODdis mg/l,20,50%ile,1.347908
+RRAvon_30,River BODdis mg/l,20,90%ile,1.68973
+RRAvon_30,River BODdis mg/l,20,95%ile,1.824435
+RRAvon_30,River BODdis mg/l,20,99%ile,2.202176
+RRAvon_30,River BODdis mg/l,20,Max,4.89429
+RRAvon_30,River BODdis mg/l,20,MeanDW,1.386161
+RRAvon_30,River BODdis mg/l,20,5%ileDW,1.068196
+RRAvon_30,River BODdis mg/l,20,10%ileDW,1.120778
+RRAvon_30,River BODdis mg/l,20,90%ileDW,1.347908
+RRAvon_30,River BODdis mg/l,20,95%ileDW,1.68973
+RRAvon_30,River AmmN mg/l,21,Mean,0.1858418
+RRAvon_30,River AmmN mg/l,21,Min,2.66E-02
+RRAvon_30,River AmmN mg/l,21,5%ile,5.45E-02
+RRAvon_30,River AmmN mg/l,21,10%ile,6.65E-02
+RRAvon_30,River AmmN mg/l,21,20%ile,9.03E-02
+RRAvon_30,River AmmN mg/l,21,50%ile,0.1648079
+RRAvon_30,River AmmN mg/l,21,90%ile,0.3272961
+RRAvon_30,River AmmN mg/l,21,95%ile,0.3949653
+RRAvon_30,River AmmN mg/l,21,99%ile,0.5652782
+RRAvon_30,River AmmN mg/l,21,Max,1.354566
+RRAvon_30,River AmmN mg/l,21,MeanDW,0.1842328
+RRAvon_30,River AmmN mg/l,21,5%ileDW,5.60E-02
+RRAvon_30,River AmmN mg/l,21,10%ileDW,6.84E-02
+RRAvon_30,River AmmN mg/l,21,90%ileDW,0.1648079
+RRAvon_30,River AmmN mg/l,21,95%ileDW,0.3272961
+RRAvon_30,River DO mg/l,22,Mean,8.365601
+RRAvon_30,River DO mg/l,22,Min,4.784707
+RRAvon_30,River DO mg/l,22,5%ile,6.573902
+RRAvon_30,River DO mg/l,22,10%ile,6.834918
+RRAvon_30,River DO mg/l,22,20%ile,7.181242
+RRAvon_30,River DO mg/l,22,50%ile,8.279517
+RRAvon_30,River DO mg/l,22,90%ile,10.06859
+RRAvon_30,River DO mg/l,22,95%ile,10.31504
+RRAvon_30,River DO mg/l,22,99%ile,10.67981
+RRAvon_30,River DO mg/l,22,Max,16.89842
+RRAvon_30,River DO mg/l,22,MeanDW,8.365594
+RRAvon_30,River DO mg/l,22,5%ileDW,6.586379
+RRAvon_30,River DO mg/l,22,10%ileDW,6.835218
+RRAvon_30,River DO mg/l,22,90%ileDW,8.279517
+RRAvon_30,River DO mg/l,22,95%ileDW,10.06859
+RRAvon_30,River Temperature Deg C,23,Mean,9.82598
+RRAvon_30,River Temperature Deg C,23,Min,0.6137931
+RRAvon_30,River Temperature Deg C,23,5%ile,3.440864
+RRAvon_30,River Temperature Deg C,23,10%ile,3.761643
+RRAvon_30,River Temperature Deg C,23,20%ile,4.473902
+RRAvon_30,River Temperature Deg C,23,50%ile,9.699707
+RRAvon_30,River Temperature Deg C,23,90%ile,16.34322
+RRAvon_30,River Temperature Deg C,23,95%ile,17.06241
+RRAvon_30,River Temperature Deg C,23,99%ile,18.75417
+RRAvon_30,River Temperature Deg C,23,Max,20.79966
+RRAvon_30,River Temperature Deg C,23,MeanDW,9.826554
+RRAvon_30,River Temperature Deg C,23,5%ileDW,3.449202
+RRAvon_30,River Temperature Deg C,23,10%ileDW,3.759088
+RRAvon_30,River Temperature Deg C,23,90%ileDW,9.699707
+RRAvon_30,River Temperature Deg C,23,95%ileDW,16.34322
+RRAvon_30,River Flow m3/s,24,Mean,18.5637
+RRAvon_30,River Flow m3/s,24,Min,0.9931062
+RRAvon_30,River Flow m3/s,24,5%ile,2.352399
+RRAvon_30,River Flow m3/s,24,10%ile,2.941399
+RRAvon_30,River Flow m3/s,24,20%ile,3.927362
+RRAvon_30,River Flow m3/s,24,50%ile,8.546982
+RRAvon_30,River Flow m3/s,24,90%ile,50.14944
+RRAvon_30,River Flow m3/s,24,95%ile,70.38097
+RRAvon_30,River Flow m3/s,24,99%ile,106.4019
+RRAvon_30,River Flow m3/s,24,Max,171.2286
+RRAvon_30,River Flow m3/s,24,MeanDW,18.56969
+RRAvon_30,River Flow m3/s,24,5%ileDW,2.363469
+RRAvon_30,River Flow m3/s,24,10%ileDW,2.958575
+RRAvon_30,River Flow m3/s,24,90%ileDW,8.546982
+RRAvon_30,River Flow m3/s,24,95%ileDW,50.14944
+RRAvon_40,DO %sat at downstream end of reach %,25,Mean,74.11018
+RRAvon_40,DO %sat at downstream end of reach %,25,Min,46.96262
+RRAvon_40,DO %sat at downstream end of reach %,25,5%ile,67.96602
+RRAvon_40,DO %sat at downstream end of reach %,25,10%ile,69.28938
+RRAvon_40,DO %sat at downstream end of reach %,25,20%ile,70.84015
+RRAvon_40,DO %sat at downstream end of reach %,25,50%ile,73.70607
+RRAvon_40,DO %sat at downstream end of reach %,25,90%ile,79.87206
+RRAvon_40,DO %sat at downstream end of reach %,25,95%ile,81.33887
+RRAvon_40,DO %sat at downstream end of reach %,25,99%ile,83.56387
+RRAvon_40,DO %sat at downstream end of reach %,25,Max,87.61743
+RRAvon_40,DO %sat at downstream end of reach %,25,MeanDW,73.98615
+RRAvon_40,DO %sat at downstream end of reach %,25,5%ileDW,67.71673
+RRAvon_40,DO %sat at downstream end of reach %,25,10%ileDW,69.10036
+RRAvon_40,DO %sat at downstream end of reach %,25,90%ileDW,73.70607
+RRAvon_40,DO %sat at downstream end of reach %,25,95%ileDW,79.87206
+RRAvon_40,River DO mg/l,26,Mean,8.560353
+RRAvon_40,River DO mg/l,26,Min,4.438867
+RRAvon_40,River DO mg/l,26,5%ile,6.652162
+RRAvon_40,River DO mg/l,26,10%ile,6.889458
+RRAvon_40,River DO mg/l,26,20%ile,7.225401
+RRAvon_40,River DO mg/l,26,50%ile,8.53844
+RRAvon_40,River DO mg/l,26,90%ile,10.3053
+RRAvon_40,River DO mg/l,26,95%ile,10.54708
+RRAvon_40,River DO mg/l,26,99%ile,10.85229
+RRAvon_40,River DO mg/l,26,Max,11.48113
+RRAvon_40,River DO mg/l,26,MeanDW,8.546048
+RRAvon_40,River DO mg/l,26,5%ileDW,6.628521
+RRAvon_40,River DO mg/l,26,10%ileDW,6.873429
+RRAvon_40,River DO mg/l,26,90%ileDW,8.53844
+RRAvon_40,River DO mg/l,26,95%ileDW,10.3053
+RRAvon_40,River AmmN mg/l,27,Mean,0.2530206
+RRAvon_40,River AmmN mg/l,27,Min,3.33E-02
+RRAvon_40,River AmmN mg/l,27,5%ile,0.0685553
+RRAvon_40,River AmmN mg/l,27,10%ile,8.41E-02
+RRAvon_40,River AmmN mg/l,27,20%ile,0.1158203
+RRAvon_40,River AmmN mg/l,27,50%ile,0.2195484
+RRAvon_40,River AmmN mg/l,27,90%ile,0.4582534
+RRAvon_40,River AmmN mg/l,27,95%ile,0.5576838
+RRAvon_40,River AmmN mg/l,27,99%ile,0.8124885
+RRAvon_40,River AmmN mg/l,27,Max,2.201393
+RRAvon_40,River AmmN mg/l,27,MeanDW,0.2657425
+RRAvon_40,River AmmN mg/l,27,5%ileDW,7.11E-02
+RRAvon_40,River AmmN mg/l,27,10%ileDW,8.68E-02
+RRAvon_40,River AmmN mg/l,27,90%ileDW,0.2195484
+RRAvon_40,River AmmN mg/l,27,95%ileDW,0.4582534
+RRAvon_40,River BODdis mg/l,28,Mean,1.392377
+RRAvon_40,River BODdis mg/l,28,Min,0.7661799
+RRAvon_40,River BODdis mg/l,28,5%ile,1.071111
+RRAvon_40,River BODdis mg/l,28,10%ile,1.124757
+RRAvon_40,River BODdis mg/l,28,20%ile,1.192559
+RRAvon_40,River BODdis mg/l,28,50%ile,1.347906
+RRAvon_40,River BODdis mg/l,28,90%ile,1.708416
+RRAvon_40,River BODdis mg/l,28,95%ile,1.863637
+RRAvon_40,River BODdis mg/l,28,99%ile,2.238525
+RRAvon_40,River BODdis mg/l,28,Max,4.603636
+RRAvon_40,River BODdis mg/l,28,MeanDW,1.410587
+RRAvon_40,River BODdis mg/l,28,5%ileDW,1.087262
+RRAvon_40,River BODdis mg/l,28,10%ileDW,1.138647
+RRAvon_40,River BODdis mg/l,28,90%ileDW,1.347906
+RRAvon_40,River BODdis mg/l,28,95%ileDW,1.708416
+RRAvon_40,River Temperature Deg C,29,Mean,9.677855
+RRAvon_40,River Temperature Deg C,29,Min,0
+RRAvon_40,River Temperature Deg C,29,5%ile,3.322536
+RRAvon_40,River Temperature Deg C,29,10%ile,3.726988
+RRAvon_40,River Temperature Deg C,29,20%ile,4.470685
+RRAvon_40,River Temperature Deg C,29,50%ile,9.642947
+RRAvon_40,River Temperature Deg C,29,90%ile,16.06734
+RRAvon_40,River Temperature Deg C,29,95%ile,16.88356
+RRAvon_40,River Temperature Deg C,29,99%ile,18.82683
+RRAvon_40,River Temperature Deg C,29,Max,21.31507
+RRAvon_40,River Temperature Deg C,29,MeanDW,9.682049
+RRAvon_40,River Temperature Deg C,29,5%ileDW,3.327679
+RRAvon_40,River Temperature Deg C,29,10%ileDW,3.736851
+RRAvon_40,River Temperature Deg C,29,90%ileDW,9.642947
+RRAvon_40,River Temperature Deg C,29,95%ileDW,16.06734
+RRAvon_40,River Flow m3/s,30,Mean,13.20876
+RRAvon_40,River Flow m3/s,30,Min,0.7816406
+RRAvon_40,River Flow m3/s,30,5%ile,1.771198
+RRAvon_40,River Flow m3/s,30,10%ile,2.203177
+RRAvon_40,River Flow m3/s,30,20%ile,2.902433
+RRAvon_40,River Flow m3/s,30,50%ile,6.18459
+RRAvon_40,River Flow m3/s,30,90%ile,35.42836
+RRAvon_40,River Flow m3/s,30,95%ile,49.71851
+RRAvon_40,River Flow m3/s,30,99%ile,75.11652
+RRAvon_40,River Flow m3/s,30,Max,122.5699
+RRAvon_40,River Flow m3/s,30,MeanDW,13.20329
+RRAvon_40,River Flow m3/s,30,5%ileDW,1.783096
+RRAvon_40,River Flow m3/s,30,10%ileDW,2.213858
+RRAvon_40,River Flow m3/s,30,90%ileDW,6.18459
+RRAvon_40,River Flow m3/s,30,95%ileDW,35.42836
+RRAvon_50,River AmmN mg/l,31,Mean,0.2297122
+RRAvon_50,River AmmN mg/l,31,Min,2.90E-02
+RRAvon_50,River AmmN mg/l,31,5%ile,6.40E-02
+RRAvon_50,River AmmN mg/l,31,10%ile,7.85E-02
+RRAvon_50,River AmmN mg/l,31,20%ile,0.1070866
+RRAvon_50,River AmmN mg/l,31,50%ile,0.1955959
+RRAvon_50,River AmmN mg/l,31,90%ile,0.4173028
+RRAvon_50,River AmmN mg/l,31,95%ile,0.5166183
+RRAvon_50,River AmmN mg/l,31,99%ile,0.7612531
+RRAvon_50,River AmmN mg/l,31,Max,2.313704
+RRAvon_50,River AmmN mg/l,31,MeanDW,0.230481
+RRAvon_50,River AmmN mg/l,31,5%ileDW,6.44E-02
+RRAvon_50,River AmmN mg/l,31,10%ileDW,0.0791033
+RRAvon_50,River AmmN mg/l,31,90%ileDW,0.1955959
+RRAvon_50,River AmmN mg/l,31,95%ileDW,0.4173028
+RRAvon_50,River BODdis mg/l,32,Mean,1.396534
+RRAvon_50,River BODdis mg/l,32,Min,0.7723531
+RRAvon_50,River BODdis mg/l,32,5%ile,1.06741
+RRAvon_50,River BODdis mg/l,32,10%ile,1.122193
+RRAvon_50,River BODdis mg/l,32,20%ile,1.192651
+RRAvon_50,River BODdis mg/l,32,50%ile,1.351461
+RRAvon_50,River BODdis mg/l,32,90%ile,1.722199
+RRAvon_50,River BODdis mg/l,32,95%ile,1.875429
+RRAvon_50,River BODdis mg/l,32,99%ile,2.252758
+RRAvon_50,River BODdis mg/l,32,Max,5.550755
+RRAvon_50,River BODdis mg/l,32,MeanDW,1.400822
+RRAvon_50,River BODdis mg/l,32,5%ileDW,1.071246
+RRAvon_50,River BODdis mg/l,32,10%ileDW,1.125821
+RRAvon_50,River BODdis mg/l,32,90%ileDW,1.351461
+RRAvon_50,River BODdis mg/l,32,95%ileDW,1.722199
+RRAvon_50,DO %sat at downstream end of reach %,33,Mean,73.17405
+RRAvon_50,DO %sat at downstream end of reach %,33,Min,39.17862
+RRAvon_50,DO %sat at downstream end of reach %,33,5%ile,62.73216
+RRAvon_50,DO %sat at downstream end of reach %,33,10%ile,66.11823
+RRAvon_50,DO %sat at downstream end of reach %,33,20%ile,68.86832
+RRAvon_50,DO %sat at downstream end of reach %,33,50%ile,73.2122
+RRAvon_50,DO %sat at downstream end of reach %,33,90%ile,80.77178
+RRAvon_50,DO %sat at downstream end of reach %,33,95%ile,82.21288
+RRAvon_50,DO %sat at downstream end of reach %,33,99%ile,84.43696
+RRAvon_50,DO %sat at downstream end of reach %,33,Max,89.30228
+RRAvon_50,DO %sat at downstream end of reach %,33,MeanDW,73.1833
+RRAvon_50,DO %sat at downstream end of reach %,33,5%ileDW,62.76292
+RRAvon_50,DO %sat at downstream end of reach %,33,10%ileDW,66.18653
+RRAvon_50,DO %sat at downstream end of reach %,33,90%ileDW,73.2122
+RRAvon_50,DO %sat at downstream end of reach %,33,95%ileDW,80.77178
+RRAvon_50,River DO mg/l,34,Mean,8.450505
+RRAvon_50,River DO mg/l,34,Min,3.623461
+RRAvon_50,River DO mg/l,34,5%ile,6.107004
+RRAvon_50,River DO mg/l,34,10%ile,6.57701
+RRAvon_50,River DO mg/l,34,20%ile,7.034204
+RRAvon_50,River DO mg/l,34,50%ile,8.453362
+RRAvon_50,River DO mg/l,34,90%ile,10.39068
+RRAvon_50,River DO mg/l,34,95%ile,10.64323
+RRAvon_50,River DO mg/l,34,99%ile,10.95056
+RRAvon_50,River DO mg/l,34,Max,11.69987
+RRAvon_50,River DO mg/l,34,MeanDW,8.451485
+RRAvon_50,River DO mg/l,34,5%ileDW,6.103636
+RRAvon_50,River DO mg/l,34,10%ileDW,6.579679
+RRAvon_50,River DO mg/l,34,90%ileDW,8.453362
+RRAvon_50,River DO mg/l,34,95%ileDW,10.39068
+RRAvon_50,River Temperature Deg C,35,Mean,9.791644
+RRAvon_50,River Temperature Deg C,35,Min,0
+RRAvon_50,River Temperature Deg C,35,5%ile,3.385409
+RRAvon_50,River Temperature Deg C,35,10%ile,3.768816
+RRAvon_50,River Temperature Deg C,35,20%ile,4.51001
+RRAvon_50,River Temperature Deg C,35,50%ile,9.723108
+RRAvon_50,River Temperature Deg C,35,90%ile,16.25255
+RRAvon_50,River Temperature Deg C,35,95%ile,17.0179
+RRAvon_50,River Temperature Deg C,35,99%ile,18.86572
+RRAvon_50,River Temperature Deg C,35,Max,21.57062
+RRAvon_50,River Temperature Deg C,35,MeanDW,9.792319
+RRAvon_50,River Temperature Deg C,35,5%ileDW,3.379898
+RRAvon_50,River Temperature Deg C,35,10%ileDW,3.770391
+RRAvon_50,River Temperature Deg C,35,90%ileDW,9.723108
+RRAvon_50,River Temperature Deg C,35,95%ileDW,16.25255
+RRAvon_50,River Flow m3/s,36,Mean,13.13985
+RRAvon_50,River Flow m3/s,36,Min,0.7579001
+RRAvon_50,River Flow m3/s,36,5%ile,1.738176
+RRAvon_50,River Flow m3/s,36,10%ile,2.168805
+RRAvon_50,River Flow m3/s,36,20%ile,2.861987
+RRAvon_50,River Flow m3/s,36,50%ile,6.134568
+RRAvon_50,River Flow m3/s,36,90%ile,35.31617
+RRAvon_50,River Flow m3/s,36,95%ile,49.52238
+RRAvon_50,River Flow m3/s,36,99%ile,75.03333
+RRAvon_50,River Flow m3/s,36,Max,122.8513
+RRAvon_50,River Flow m3/s,36,MeanDW,13.12776
+RRAvon_50,River Flow m3/s,36,5%ileDW,1.739448
+RRAvon_50,River Flow m3/s,36,10%ileDW,2.16783
+RRAvon_50,River Flow m3/s,36,90%ileDW,6.134568
+RRAvon_50,River Flow m3/s,36,95%ileDW,35.31617
+RRAvon_60,DO %sat at downstream end of reach %,37,Mean,74.28719
+RRAvon_60,DO %sat at downstream end of reach %,37,Min,34.00067
+RRAvon_60,DO %sat at downstream end of reach %,37,5%ile,62.96238
+RRAvon_60,DO %sat at downstream end of reach %,37,10%ile,67.03773
+RRAvon_60,DO %sat at downstream end of reach %,37,20%ile,70.0517
+RRAvon_60,DO %sat at downstream end of reach %,37,50%ile,74.61141
+RRAvon_60,DO %sat at downstream end of reach %,37,90%ile,81.81225
+RRAvon_60,DO %sat at downstream end of reach %,37,95%ile,83.15085
+RRAvon_60,DO %sat at downstream end of reach %,37,99%ile,85.34845
+RRAvon_60,DO %sat at downstream end of reach %,37,Max,91.46762
+RRAvon_60,DO %sat at downstream end of reach %,37,MeanDW,74.29847
+RRAvon_60,DO %sat at downstream end of reach %,37,5%ileDW,62.99245
+RRAvon_60,DO %sat at downstream end of reach %,37,10%ileDW,67.10953
+RRAvon_60,DO %sat at downstream end of reach %,37,90%ileDW,74.61141
+RRAvon_60,DO %sat at downstream end of reach %,37,95%ileDW,81.81225
+RRAvon_60,River AmmN mg/l,38,Mean,0.2366413
+RRAvon_60,River AmmN mg/l,38,Min,2.77E-02
+RRAvon_60,River AmmN mg/l,38,5%ile,6.31E-02
+RRAvon_60,River AmmN mg/l,38,10%ile,7.79E-02
+RRAvon_60,River AmmN mg/l,38,20%ile,0.1071661
+RRAvon_60,River AmmN mg/l,38,50%ile,0.2004635
+RRAvon_60,River AmmN mg/l,38,90%ile,0.4351649
+RRAvon_60,River AmmN mg/l,38,95%ile,0.5388675
+RRAvon_60,River AmmN mg/l,38,99%ile,0.7944688
+RRAvon_60,River AmmN mg/l,38,Max,2.654725
+RRAvon_60,River AmmN mg/l,38,MeanDW,0.2374338
+RRAvon_60,River AmmN mg/l,38,5%ileDW,6.30E-02
+RRAvon_60,River AmmN mg/l,38,10%ileDW,7.80E-02
+RRAvon_60,River AmmN mg/l,38,90%ileDW,0.2004635
+RRAvon_60,River AmmN mg/l,38,95%ileDW,0.4351649
+RRAvon_60,River BODdis mg/l,39,Mean,1.431399
+RRAvon_60,River BODdis mg/l,39,Min,0.7736143
+RRAvon_60,River BODdis mg/l,39,5%ile,1.083633
+RRAvon_60,River BODdis mg/l,39,10%ile,1.1423
+RRAvon_60,River BODdis mg/l,39,20%ile,1.216876
+RRAvon_60,River BODdis mg/l,39,50%ile,1.384398
+RRAvon_60,River BODdis mg/l,39,90%ile,1.776285
+RRAvon_60,River BODdis mg/l,39,95%ile,1.934589
+RRAvon_60,River BODdis mg/l,39,99%ile,2.31609
+RRAvon_60,River BODdis mg/l,39,Max,6.075566
+RRAvon_60,River BODdis mg/l,39,MeanDW,1.433933
+RRAvon_60,River BODdis mg/l,39,5%ileDW,1.08779
+RRAvon_60,River BODdis mg/l,39,10%ileDW,1.146466
+RRAvon_60,River BODdis mg/l,39,90%ileDW,1.384398
+RRAvon_60,River BODdis mg/l,39,95%ileDW,1.776285
+RRAvon_60,River DO mg/l,40,Mean,8.548728
+RRAvon_60,River DO mg/l,40,Min,3.156763
+RRAvon_60,River DO mg/l,40,5%ile,6.11813
+RRAvon_60,River DO mg/l,40,10%ile,6.659335
+RRAvon_60,River DO mg/l,40,20%ile,7.141424
+RRAvon_60,River DO mg/l,40,50%ile,8.568509
+RRAvon_60,River DO mg/l,40,90%ile,10.50516
+RRAvon_60,River DO mg/l,40,95%ile,10.74788
+RRAvon_60,River DO mg/l,40,99%ile,11.05263
+RRAvon_60,River DO mg/l,40,Max,11.97423
+RRAvon_60,River DO mg/l,40,MeanDW,8.549899
+RRAvon_60,River DO mg/l,40,5%ileDW,6.126959
+RRAvon_60,River DO mg/l,40,10%ileDW,6.666487
+RRAvon_60,River DO mg/l,40,90%ileDW,8.568509
+RRAvon_60,River DO mg/l,40,95%ileDW,10.50516
+RRAvon_60,River Flow m3/s,41,Mean,13.10112
+RRAvon_60,River Flow m3/s,41,Min,0.7500513
+RRAvon_60,River Flow m3/s,41,5%ile,1.729715
+RRAvon_60,River Flow m3/s,41,10%ile,2.158979
+RRAvon_60,River Flow m3/s,41,20%ile,2.850325
+RRAvon_60,River Flow m3/s,41,50%ile,6.115444
+RRAvon_60,River Flow m3/s,41,90%ile,35.22521
+RRAvon_60,River Flow m3/s,41,95%ile,49.38768
+RRAvon_60,River Flow m3/s,41,99%ile,74.91525
+RRAvon_60,River Flow m3/s,41,Max,123.1848
+RRAvon_60,River Flow m3/s,41,MeanDW,13.09301
+RRAvon_60,River Flow m3/s,41,5%ileDW,1.729747
+RRAvon_60,River Flow m3/s,41,10%ileDW,2.154784
+RRAvon_60,River Flow m3/s,41,90%ileDW,6.115444
+RRAvon_60,River Flow m3/s,41,95%ileDW,35.22521
+RRAvon_60,River Temperature Deg C,42,Mean,9.935253
+RRAvon_60,River Temperature Deg C,42,Min,0
+RRAvon_60,River Temperature Deg C,42,5%ile,3.44973
+RRAvon_60,River Temperature Deg C,42,10%ile,3.818814
+RRAvon_60,River Temperature Deg C,42,20%ile,4.568844
+RRAvon_60,River Temperature Deg C,42,50%ile,9.877288
+RRAvon_60,River Temperature Deg C,42,90%ile,16.47456
+RRAvon_60,River Temperature Deg C,42,95%ile,17.24208
+RRAvon_60,River Temperature Deg C,42,99%ile,19.04201
+RRAvon_60,River Temperature Deg C,42,Max,21.82404
+RRAvon_60,River Temperature Deg C,42,MeanDW,9.936219
+RRAvon_60,River Temperature Deg C,42,5%ileDW,3.447669
+RRAvon_60,River Temperature Deg C,42,10%ileDW,3.820884
+RRAvon_60,River Temperature Deg C,42,90%ileDW,9.877288
+RRAvon_60,River Temperature Deg C,42,95%ileDW,16.47456
+RRAvon_70,DO %sat at downstream end of reach %,43,Mean,60.20086
+RRAvon_70,DO %sat at downstream end of reach %,43,Min,1.05911
+RRAvon_70,DO %sat at downstream end of reach %,43,5%ile,39.46338
+RRAvon_70,DO %sat at downstream end of reach %,43,10%ile,47.21212
+RRAvon_70,DO %sat at downstream end of reach %,43,20%ile,52.85085
+RRAvon_70,DO %sat at downstream end of reach %,43,50%ile,61.2441
+RRAvon_70,DO %sat at downstream end of reach %,43,90%ile,72.9043
+RRAvon_70,DO %sat at downstream end of reach %,43,95%ile,74.86699
+RRAvon_70,DO %sat at downstream end of reach %,43,99%ile,78.1205
+RRAvon_70,DO %sat at downstream end of reach %,43,Max,91.99117
+RRAvon_70,DO %sat at downstream end of reach %,43,MeanDW,60.21014
+RRAvon_70,DO %sat at downstream end of reach %,43,5%ileDW,39.4118
+RRAvon_70,DO %sat at downstream end of reach %,43,10%ileDW,47.1882
+RRAvon_70,DO %sat at downstream end of reach %,43,90%ileDW,61.2441
+RRAvon_70,DO %sat at downstream end of reach %,43,95%ileDW,72.9043
+RRAvon_70,River AmmN mg/l,44,Mean,0.2457916
+RRAvon_70,River AmmN mg/l,44,Min,0.0261046
+RRAvon_70,River AmmN mg/l,44,5%ile,6.20E-02
+RRAvon_70,River AmmN mg/l,44,10%ile,0.0769899
+RRAvon_70,River AmmN mg/l,44,20%ile,0.107226
+RRAvon_70,River AmmN mg/l,44,50%ile,0.2066893
+RRAvon_70,River AmmN mg/l,44,90%ile,0.4582361
+RRAvon_70,River AmmN mg/l,44,95%ile,0.5698196
+RRAvon_70,River AmmN mg/l,44,99%ile,0.8410071
+RRAvon_70,River AmmN mg/l,44,Max,2.883753
+RRAvon_70,River AmmN mg/l,44,MeanDW,0.2463008
+RRAvon_70,River AmmN mg/l,44,5%ileDW,6.20E-02
+RRAvon_70,River AmmN mg/l,44,10%ileDW,0.0767059
+RRAvon_70,River AmmN mg/l,44,90%ileDW,0.2066893
+RRAvon_70,River AmmN mg/l,44,95%ileDW,0.4582361
+RRAvon_70,River BODdis mg/l,45,Mean,1.473152
+RRAvon_70,River BODdis mg/l,45,Min,0.7522813
+RRAvon_70,River BODdis mg/l,45,5%ile,1.100405
+RRAvon_70,River BODdis mg/l,45,10%ile,1.162357
+RRAvon_70,River BODdis mg/l,45,20%ile,1.242696
+RRAvon_70,River BODdis mg/l,45,50%ile,1.422912
+RRAvon_70,River BODdis mg/l,45,90%ile,1.844044
+RRAvon_70,River BODdis mg/l,45,95%ile,2.015898
+RRAvon_70,River BODdis mg/l,45,99%ile,2.422804
+RRAvon_70,River BODdis mg/l,45,Max,4.70384
+RRAvon_70,River BODdis mg/l,45,MeanDW,1.473169
+RRAvon_70,River BODdis mg/l,45,5%ileDW,1.101605
+RRAvon_70,River BODdis mg/l,45,10%ileDW,1.166009
+RRAvon_70,River BODdis mg/l,45,90%ileDW,1.422912
+RRAvon_70,River BODdis mg/l,45,95%ileDW,1.844044
+RRAvon_70,River DO mg/l,46,Mean,8.760224
+RRAvon_70,River DO mg/l,46,Min,4.083304
+RRAvon_70,River DO mg/l,46,5%ile,6.392722
+RRAvon_70,River DO mg/l,46,10%ile,6.93098
+RRAvon_70,River DO mg/l,46,20%ile,7.394261
+RRAvon_70,River DO mg/l,46,50%ile,8.78215
+RRAvon_70,River DO mg/l,46,90%ile,10.66547
+RRAvon_70,River DO mg/l,46,95%ile,10.89571
+RRAvon_70,River DO mg/l,46,99%ile,11.1933
+RRAvon_70,River DO mg/l,46,Max,12.45099
+RRAvon_70,River DO mg/l,46,MeanDW,8.760844
+RRAvon_70,River DO mg/l,46,5%ileDW,6.395686
+RRAvon_70,River DO mg/l,46,10%ileDW,6.932005
+RRAvon_70,River DO mg/l,46,90%ileDW,8.78215
+RRAvon_70,River DO mg/l,46,95%ileDW,10.66547
+RRAvon_70,River Temperature Deg C,47,Mean,10.09905
+RRAvon_70,River Temperature Deg C,47,Min,0.0228758
+RRAvon_70,River Temperature Deg C,47,5%ile,3.522056
+RRAvon_70,River Temperature Deg C,47,10%ile,3.875508
+RRAvon_70,River Temperature Deg C,47,20%ile,4.641288
+RRAvon_70,River Temperature Deg C,47,50%ile,10.05128
+RRAvon_70,River Temperature Deg C,47,90%ile,16.72946
+RRAvon_70,River Temperature Deg C,47,95%ile,17.48019
+RRAvon_70,River Temperature Deg C,47,99%ile,19.25066
+RRAvon_70,River Temperature Deg C,47,Max,22.21222
+RRAvon_70,River Temperature Deg C,47,MeanDW,10.09985
+RRAvon_70,River Temperature Deg C,47,5%ileDW,3.52616
+RRAvon_70,River Temperature Deg C,47,10%ileDW,3.880126
+RRAvon_70,River Temperature Deg C,47,90%ileDW,10.05128
+RRAvon_70,River Temperature Deg C,47,95%ileDW,16.72946
+RRAvon_70,River Flow m3/s,48,Mean,13.03478
+RRAvon_70,River Flow m3/s,48,Min,0.7369087
+RRAvon_70,River Flow m3/s,48,5%ile,1.710928
+RRAvon_70,River Flow m3/s,48,10%ile,2.135906
+RRAvon_70,River Flow m3/s,48,20%ile,2.820356
+RRAvon_70,River Flow m3/s,48,50%ile,6.065257
+RRAvon_70,River Flow m3/s,48,90%ile,35.09737
+RRAvon_70,River Flow m3/s,48,95%ile,49.18406
+RRAvon_70,River Flow m3/s,48,99%ile,74.85065
+RRAvon_70,River Flow m3/s,48,Max,123.6432
+RRAvon_70,River Flow m3/s,48,MeanDW,13.03197
+RRAvon_70,River Flow m3/s,48,5%ileDW,1.708634
+RRAvon_70,River Flow m3/s,48,10%ileDW,2.131937
+RRAvon_70,River Flow m3/s,48,90%ileDW,6.065257
+RRAvon_70,River Flow m3/s,48,95%ileDW,35.09737
+RRAvon_80,DO %sat at downstream end of reach %,49,Mean,65.48643
+RRAvon_80,DO %sat at downstream end of reach %,49,Min,26.56906
+RRAvon_80,DO %sat at downstream end of reach %,49,5%ile,54.53298
+RRAvon_80,DO %sat at downstream end of reach %,49,10%ile,57.15546
+RRAvon_80,DO %sat at downstream end of reach %,49,20%ile,59.98211
+RRAvon_80,DO %sat at downstream end of reach %,49,50%ile,65.37794
+RRAvon_80,DO %sat at downstream end of reach %,49,90%ile,74.2207
+RRAvon_80,DO %sat at downstream end of reach %,49,95%ile,76.00792
+RRAvon_80,DO %sat at downstream end of reach %,49,99%ile,79.15557
+RRAvon_80,DO %sat at downstream end of reach %,49,Max,104.1952
+RRAvon_80,DO %sat at downstream end of reach %,49,MeanDW,65.48586
+RRAvon_80,DO %sat at downstream end of reach %,49,5%ileDW,54.48713
+RRAvon_80,DO %sat at downstream end of reach %,49,10%ileDW,57.18989
+RRAvon_80,DO %sat at downstream end of reach %,49,90%ileDW,65.37794
+RRAvon_80,DO %sat at downstream end of reach %,49,95%ileDW,74.2207
+RRAvon_80,River AmmN mg/l,50,Mean,0.2738996
+RRAvon_80,River AmmN mg/l,50,Min,2.56E-02
+RRAvon_80,River AmmN mg/l,50,5%ile,0.0611222
+RRAvon_80,River AmmN mg/l,50,10%ile,7.61E-02
+RRAvon_80,River AmmN mg/l,50,20%ile,0.1067496
+RRAvon_80,River AmmN mg/l,50,50%ile,0.2159772
+RRAvon_80,River AmmN mg/l,50,90%ile,0.5307956
+RRAvon_80,River AmmN mg/l,50,95%ile,0.6890983
+RRAvon_80,River AmmN mg/l,50,99%ile,1.073663
+RRAvon_80,River AmmN mg/l,50,Max,3.465196
+RRAvon_80,River AmmN mg/l,50,MeanDW,0.2737153
+RRAvon_80,River AmmN mg/l,50,5%ileDW,6.06E-02
+RRAvon_80,River AmmN mg/l,50,10%ileDW,7.55E-02
+RRAvon_80,River AmmN mg/l,50,90%ileDW,0.2159772
+RRAvon_80,River AmmN mg/l,50,95%ileDW,0.5307956
+RRAvon_80,River BODdis mg/l,51,Mean,1.576898
+RRAvon_80,River BODdis mg/l,51,Min,0.7457893
+RRAvon_80,River BODdis mg/l,51,5%ile,1.134116
+RRAvon_80,River BODdis mg/l,51,10%ile,1.205611
+RRAvon_80,River BODdis mg/l,51,20%ile,1.300063
+RRAvon_80,River BODdis mg/l,51,50%ile,1.513412
+RRAvon_80,River BODdis mg/l,51,90%ile,2.024342
+RRAvon_80,River BODdis mg/l,51,95%ile,2.242806
+RRAvon_80,River BODdis mg/l,51,99%ile,2.730024
+RRAvon_80,River BODdis mg/l,51,Max,5.59661
+RRAvon_80,River BODdis mg/l,51,MeanDW,1.57304
+RRAvon_80,River BODdis mg/l,51,5%ileDW,1.134089
+RRAvon_80,River BODdis mg/l,51,10%ileDW,1.205031
+RRAvon_80,River BODdis mg/l,51,90%ileDW,1.513412
+RRAvon_80,River BODdis mg/l,51,95%ileDW,2.024342
+RRAvon_80,River DO mg/l,52,Mean,7.48622
+RRAvon_80,River DO mg/l,52,Min,2.482054
+RRAvon_80,River DO mg/l,52,5%ile,5.324507
+RRAvon_80,River DO mg/l,52,10%ile,5.699706
+RRAvon_80,River DO mg/l,52,20%ile,6.132045
+RRAvon_80,River DO mg/l,52,50%ile,7.413377
+RRAvon_80,River DO mg/l,52,90%ile,9.423575
+RRAvon_80,River DO mg/l,52,95%ile,9.741398
+RRAvon_80,River DO mg/l,52,99%ile,10.18005
+RRAvon_80,River DO mg/l,52,Max,13.63971
+RRAvon_80,River DO mg/l,52,MeanDW,7.48609
+RRAvon_80,River DO mg/l,52,5%ileDW,5.31551
+RRAvon_80,River DO mg/l,52,10%ileDW,5.700104
+RRAvon_80,River DO mg/l,52,90%ileDW,7.413377
+RRAvon_80,River DO mg/l,52,95%ileDW,9.423575
+RRAvon_80,River Temperature Deg C,53,Mean,10.27275
+RRAvon_80,River Temperature Deg C,53,Min,0.3157652
+RRAvon_80,River Temperature Deg C,53,5%ile,3.596304
+RRAvon_80,River Temperature Deg C,53,10%ile,3.936154
+RRAvon_80,River Temperature Deg C,53,20%ile,4.713022
+RRAvon_80,River Temperature Deg C,53,50%ile,10.22827
+RRAvon_80,River Temperature Deg C,53,90%ile,16.9915
+RRAvon_80,River Temperature Deg C,53,95%ile,17.72972
+RRAvon_80,River Temperature Deg C,53,99%ile,19.42597
+RRAvon_80,River Temperature Deg C,53,Max,22.41442
+RRAvon_80,River Temperature Deg C,53,MeanDW,10.27287
+RRAvon_80,River Temperature Deg C,53,5%ileDW,3.597642
+RRAvon_80,River Temperature Deg C,53,10%ileDW,3.939504
+RRAvon_80,River Temperature Deg C,53,90%ileDW,10.22827
+RRAvon_80,River Temperature Deg C,53,95%ileDW,16.9915
+RRAvon_80,River Flow m3/s,54,Mean,12.99312
+RRAvon_80,River Flow m3/s,54,Min,0.7348253
+RRAvon_80,River Flow m3/s,54,5%ile,1.707775
+RRAvon_80,River Flow m3/s,54,10%ile,2.133672
+RRAvon_80,River Flow m3/s,54,20%ile,2.817325
+RRAvon_80,River Flow m3/s,54,50%ile,6.051386
+RRAvon_80,River Flow m3/s,54,90%ile,34.96662
+RRAvon_80,River Flow m3/s,54,95%ile,49.00909
+RRAvon_80,River Flow m3/s,54,99%ile,74.19348
+RRAvon_80,River Flow m3/s,54,Max,117.7637
+RRAvon_80,River Flow m3/s,54,MeanDW,12.99754
+RRAvon_80,River Flow m3/s,54,5%ileDW,1.710686
+RRAvon_80,River Flow m3/s,54,10%ileDW,2.131359
+RRAvon_80,River Flow m3/s,54,90%ileDW,6.051386
+RRAvon_80,River Flow m3/s,54,95%ileDW,34.96662
+RRAvon_90,River BODdis mg/l,55,Mean,1.402297
+RRAvon_90,River BODdis mg/l,55,Min,0.6186385
+RRAvon_90,River BODdis mg/l,55,5%ile,1.009692
+RRAvon_90,River BODdis mg/l,55,10%ile,1.075414
+RRAvon_90,River BODdis mg/l,55,20%ile,1.15963
+RRAvon_90,River BODdis mg/l,55,50%ile,1.352657
+RRAvon_90,River BODdis mg/l,55,90%ile,1.773998
+RRAvon_90,River BODdis mg/l,55,95%ile,1.962643
+RRAvon_90,River BODdis mg/l,55,99%ile,2.473282
+RRAvon_90,River BODdis mg/l,55,Max,5.949528
+RRAvon_90,River BODdis mg/l,55,MeanDW,1.397953
+RRAvon_90,River BODdis mg/l,55,5%ileDW,1.012017
+RRAvon_90,River BODdis mg/l,55,10%ileDW,1.075165
+RRAvon_90,River BODdis mg/l,55,90%ileDW,1.352657
+RRAvon_90,River BODdis mg/l,55,95%ileDW,1.773998
+RRAvon_90,River Flow m3/s,56,Mean,11.34515
+RRAvon_90,River Flow m3/s,56,Min,0.4846972
+RRAvon_90,River Flow m3/s,56,5%ile,1.324482
+RRAvon_90,River Flow m3/s,56,10%ile,1.660891
+RRAvon_90,River Flow m3/s,56,20%ile,2.264619
+RRAvon_90,River Flow m3/s,56,50%ile,5.084044
+RRAvon_90,River Flow m3/s,56,90%ile,31.04189
+RRAvon_90,River Flow m3/s,56,95%ile,43.59072
+RRAvon_90,River Flow m3/s,56,99%ile,66.34145
+RRAvon_90,River Flow m3/s,56,Max,105.5123
+RRAvon_90,River Flow m3/s,56,MeanDW,11.35206
+RRAvon_90,River Flow m3/s,56,5%ileDW,1.323571
+RRAvon_90,River Flow m3/s,56,10%ileDW,1.660884
+RRAvon_90,River Flow m3/s,56,90%ileDW,5.084044
+RRAvon_90,River Flow m3/s,56,95%ileDW,31.04189
+RRAvon_90,River AmmN mg/l,57,Mean,0.168364
+RRAvon_90,River AmmN mg/l,57,Min,1.91E-02
+RRAvon_90,River AmmN mg/l,57,5%ile,5.18E-02
+RRAvon_90,River AmmN mg/l,57,10%ile,6.37E-02
+RRAvon_90,River AmmN mg/l,57,20%ile,8.61E-02
+RRAvon_90,River AmmN mg/l,57,50%ile,0.1484853
+RRAvon_90,River AmmN mg/l,57,90%ile,0.2937063
+RRAvon_90,River AmmN mg/l,57,95%ile,0.3577134
+RRAvon_90,River AmmN mg/l,57,99%ile,0.5301169
+RRAvon_90,River AmmN mg/l,57,Max,1.145548
+RRAvon_90,River AmmN mg/l,57,MeanDW,0.168147
+RRAvon_90,River AmmN mg/l,57,5%ileDW,5.18E-02
+RRAvon_90,River AmmN mg/l,57,10%ileDW,6.35E-02
+RRAvon_90,River AmmN mg/l,57,90%ileDW,0.1484853
+RRAvon_90,River AmmN mg/l,57,95%ileDW,0.2937063
+RRAvon_90,River DO mg/l,58,Mean,7.668972
+RRAvon_90,River DO mg/l,58,Min,3.148296
+RRAvon_90,River DO mg/l,58,5%ile,5.496147
+RRAvon_90,River DO mg/l,58,10%ile,5.829147
+RRAvon_90,River DO mg/l,58,20%ile,6.245737
+RRAvon_90,River DO mg/l,58,50%ile,7.657736
+RRAvon_90,River DO mg/l,58,90%ile,9.610577
+RRAvon_90,River DO mg/l,58,95%ile,9.927806
+RRAvon_90,River DO mg/l,58,99%ile,10.41321
+RRAvon_90,River DO mg/l,58,Max,15.14516
+RRAvon_90,River DO mg/l,58,MeanDW,7.672808
+RRAvon_90,River DO mg/l,58,5%ileDW,5.507602
+RRAvon_90,River DO mg/l,58,10%ileDW,5.836561
+RRAvon_90,River DO mg/l,58,90%ileDW,7.657736
+RRAvon_90,River DO mg/l,58,95%ileDW,9.610577
+RRAvon_90,River Temperature Deg C,59,Mean,10.3766
+RRAvon_90,River Temperature Deg C,59,Min,0
+RRAvon_90,River Temperature Deg C,59,5%ile,3.545774
+RRAvon_90,River Temperature Deg C,59,10%ile,3.909794
+RRAvon_90,River Temperature Deg C,59,20%ile,4.660995
+RRAvon_90,River Temperature Deg C,59,50%ile,10.22143
+RRAvon_90,River Temperature Deg C,59,90%ile,17.39216
+RRAvon_90,River Temperature Deg C,59,95%ile,18.31655
+RRAvon_90,River Temperature Deg C,59,99%ile,20.32039
+RRAvon_90,River Temperature Deg C,59,Max,22.94696
+RRAvon_90,River Temperature Deg C,59,MeanDW,10.37561
+RRAvon_90,River Temperature Deg C,59,5%ileDW,3.551203
+RRAvon_90,River Temperature Deg C,59,10%ileDW,3.920191
+RRAvon_90,River Temperature Deg C,59,90%ileDW,10.22143
+RRAvon_90,River Temperature Deg C,59,95%ileDW,17.39216
+RRAvon_90,DO %sat at downstream end of reach %,60,Mean,67.14281
+RRAvon_90,DO %sat at downstream end of reach %,60,Min,33.76384
+RRAvon_90,DO %sat at downstream end of reach %,60,5%ile,56.33886
+RRAvon_90,DO %sat at downstream end of reach %,60,10%ile,58.77516
+RRAvon_90,DO %sat at downstream end of reach %,60,20%ile,61.58234
+RRAvon_90,DO %sat at downstream end of reach %,60,50%ile,67.07299
+RRAvon_90,DO %sat at downstream end of reach %,60,90%ile,75.69289
+RRAvon_90,DO %sat at downstream end of reach %,60,95%ile,77.54854
+RRAvon_90,DO %sat at downstream end of reach %,60,99%ile,81.19328
+RRAvon_90,DO %sat at downstream end of reach %,60,Max,115.9848
+RRAvon_90,DO %sat at downstream end of reach %,60,MeanDW,67.18075
+RRAvon_90,DO %sat at downstream end of reach %,60,5%ileDW,56.44512
+RRAvon_90,DO %sat at downstream end of reach %,60,10%ileDW,58.8128
+RRAvon_90,DO %sat at downstream end of reach %,60,90%ileDW,67.07299
+RRAvon_90,DO %sat at downstream end of reach %,60,95%ileDW,75.69289
